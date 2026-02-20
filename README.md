@@ -1,16 +1,16 @@
-# Move Anything TAPESCAM
+# Move Everything TAPESCAM
 
-Tape saturation and degradation audio effect module for Move Anything.
+Tape saturation and degradation audio effect module for Move Everything.
 
 ## Prerequisites
 
-- [Move Anything](https://github.com/charlesvestal/move-anything) installed on your Ableton Move
+- [Move Everything](https://github.com/charlesvestal/move-anything) installed on your Ableton Move
 
 ## Installation
 
 ### Via Module Store (Recommended)
 
-1. Launch Move Anything on your Move
+1. Launch Move Everything on your Move
 2. Select **Module Store** from the main menu
 3. Navigate to **Audio FX** → **TAPESCAM**
 4. Select **Install**
@@ -57,3 +57,10 @@ Inspired by analog tape saturation characteristics.
 ## License
 
 MIT License - see LICENSE file for details.
+
+## AI Assistance Disclaimer
+
+This module is part of Move Everything and was developed with AI assistance, including Claude, Codex, and other AI assistants.
+
+All architecture, implementation, and release decisions are reviewed by human maintainers.  
+AI-assisted content may still contain errors, so please validate functionality, security, and license compatibility before production use.
